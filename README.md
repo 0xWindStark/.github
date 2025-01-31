@@ -5,6 +5,10 @@
 [![Watch the video](https://github.com/0xWindStark/.github/blob/main/Screenshot%202025-02-01%20010719.png)](https://github.com/0xWindStark/.github/blob/main/videoplayback.mp4)
 
 
+
+[![Video Title](https://img.youtube.com/vi/VHjPhsDyh6U&t=3s&ab_channel=SoarinSkySagar/0.jpg)](https://www.youtube.com/watch?v=VHjPhsDyh6U&t=3s&ab_channel=SoarinSkySagar)
+
+
 ### 🗺️ **Project Overview**  
 2D on-chain gaming app/platform, featuring a rogue-like experience with procedural generation, dynamic gameplay, and strategic depth.
 
