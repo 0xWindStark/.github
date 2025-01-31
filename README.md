@@ -1,21 +1,23 @@
-🌟 **WindStark** 
+# 🌟 **WindStark**
 
-🗺️ **Project Overview**  
+###🗺️ **Project Overview**  
 2D on-chain gaming app/platform, featuring a rogue-like experience with procedural generation, dynamic gameplay, and strategic depth.
 
 
 
-🎯 **Key Goals & Objectives**  
+### 🎯 **Key Goals & Objectives**  
 WindStark aims to offer a challenging and engaging rogue-like game with procedurally generated levels and a unique rewind mechanic that blends strategy, skill, and creativity. The game provides an exciting and innovative experience for both casual and hardcore gamers.
 
-🌍 **Project goals and why does it matter?**  
+### 🌍 **Project goals and why does it matter?**  
 WindStark brings a fresh take to the rogue-like genre with its rewind ability, offering players a dynamic way to overcome challenges. By combining fast-paced decision-making and creative problem-solving, it appeals to a wide variety of players. The planned expansion into NFTs and a marketplace will further enhance the game's replayability and engagement, while introducing a competitive, reward-based ecosystem.
 
-🧩 **Target Audience**  
+### 🧩 **Target Audience**  
 - Gamers who enjoy fast-paced, skill-based challenges with high replayability.
 - Fans of rogue-like games, minimalist art styles, and strategic gameplay.
 - Players looking for innovation in gameplay mechanics and an evolving game economy.
-🎉 **Core Features & Benefits**  
+
+
+### 🎉 **Core Features & Benefits**  
 
 📌 **Feature 1: Rewind Ability**  
 The rewind ability allows players to retrace their steps, strategize rapid movements, and make tactical escapes, adding depth and excitement to gameplay.
@@ -62,7 +64,7 @@ WindStark promotes skill-building, adaptability, and critical thinking. The game
 
 
 
-🛠️ **Team & Contributions**  
+### 🛠️ **Team & Contributions**  
 
 🧑‍💻 Sagar: Smart Contract dev  
 
