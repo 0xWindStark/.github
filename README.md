@@ -6,7 +6,7 @@
 
 
 
-[![WATCH HERE]](https://www.youtube.com/watch?v=VHjPhsDyh6U&t=3s&ab_channel=SoarinSkySagar)
+[WATCH HERE](https://www.youtube.com/watch?v=VHjPhsDyh6U&t=3s&ab_channel=SoarinSkySagar)
 
 
 ### 🗺️ **Project Overview**  
