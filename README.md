@@ -1,4 +1,4 @@
-# ![WindStark Icon](https://github.com/0xWindStark/.github/blob/main/icon.png)  **WindStark**
+# <img src="https://github.com/0xWindStark/.github/blob/main/icon.png" alt="WindStark Icon" width="30" height="30"> **WindStark**
 
 
 ## 🌟 **Gameplay**
