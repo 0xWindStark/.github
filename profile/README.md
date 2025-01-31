@@ -1,8 +1,8 @@
-# <img src="https://github.com/0xWindStark/.github/blob/main/icon.png" alt="WindStark Icon" width="30" height="30"> **WindStark**
+# <img src="https://github.com/shibiki-labs/.github/blob/main/icon.png" alt="WindStark Icon" width="30" height="30"> **WindStark**
 
 
 ## 🌟 **Gameplay**
-[![Watch the video](https://github.com/0xWindStark/.github/blob/main/Screenshot%202025-02-01%20010719.png)](https://github.com/0xWindStark/.github/blob/main/videoplayback.mp4)
+[![Watch the video](https://github.com/shibiki-labs/.github/blob/main/Screenshot%202025-02-01%20010719.png)](https://github.com/shibiki-labs/.github/blob/main/videoplayback.mp4)
 
 
 
