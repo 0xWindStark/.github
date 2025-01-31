@@ -57,7 +57,8 @@ A competitive leaderboard will track the best players based on their high scores
 WindStark redefines player engagement with its minimalist design and innovative mechanics. Procedural generation offers limitless replayability, while the rewind mechanic adds a new layer of strategy. As the game expands with NFT avatars, a marketplace, and staking-based competitive gameplay, it creates a unique, rewarding experience for players.
 📈 **Future Plans:**  
 - Complete Unity integration for the game and on-chain features.
-- Expand the game to include NFT avatars, with customizable traits and abilities.
+- Include ERC20 tokens as in game rewards and currencies.
+- Expand the game to include ERC721 NFT avatars, with customizable traits and abilities.
 - Develop a marketplace where players can trade, buy, and sell NFTs.
 - Implement a competitive leaderboard and introduce staking-based matches.
 - Add new upgrade paths and abilities to enhance strategic depth.
