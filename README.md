@@ -1,27 +1,113 @@
-# <img src="https://github.com/0xWindStark/.github/blob/main/icon.png" alt="WindStark Icon" width="30" height="30"> **WindStark**
 
+Skip to content
+Navigation Menu
 
-## 🌟 **Gameplay**
-[![Watch the video](https://github.com/0xWindStark/.github/blob/main/Screenshot%202025-02-01%20010719.png)](https://github.com/0xWindStark/.github/blob/main/videoplayback.mp4)
+    shibiki-labs
 
+    .github
 
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
 
-[WATCH HERE](https://www.youtube.com/watch?v=VHjPhsDyh6U&t=3s&ab_channel=SoarinSkySagar)
+    Settings
 
+Files
+t
 
-### 🗺️ **Project Overview**  
-2D on-chain gaming app/platform, featuring a rogue-like experience with procedural generation, dynamic gameplay, and strategic depth.
+profile
 
+    README.md
 
+README.md
+Screenshot 2025-02-01 010719.png
+icon.png
 
-### 🎯 **Key Goals & Objectives**  
-WindStark aims to offer a challenging and engaging rogue-like game with procedurally generated levels and a unique rewind mechanic that blends strategy, skill, and creativity. The game provides an exciting and innovative experience for both casual and hardcore gamers.
+    videoplayback.mp4
 
-### 🌍 **Project goals and why does it matter?**  
-WindStark brings a fresh take to the rogue-like genre with its rewind ability, offering players a dynamic way to overcome challenges. By combining fast-paced decision-making and creative problem-solving, it appeals to a wide variety of players. The planned expansion into NFTs and a marketplace will further enhance the game's replayability and engagement, while introducing a competitive, reward-based ecosystem.
+shibiki-labs/.github is a special repository: this README.md will appear on your public organization profile, visible to anyone.
 
-### 🧩 **Target Audience**  
-- Gamers who enjoy fast-paced, skill-based challenges with high replayability.
+    .github/profile
+
+/
+in
+main
+
+Indent mode
+Indent size
+Line wrap mode
+Editing README.md file contents
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+# <img src="https://github.com/shibiki-labs/.github/blob/main/icon.png" alt="WindStark Icon" width="30" height="30"> **WindStark**
 - Fans of rogue-like games, minimalist art styles, and strategic gameplay.
 - Players looking for innovation in gameplay mechanics and an evolving game economy.
 
@@ -57,7 +143,8 @@ A competitive leaderboard will track the best players based on their high scores
 WindStark redefines player engagement with its minimalist design and innovative mechanics. Procedural generation offers limitless replayability, while the rewind mechanic adds a new layer of strategy. As the game expands with NFT avatars, a marketplace, and staking-based competitive gameplay, it creates a unique, rewarding experience for players.
 📈 **Future Plans:**  
 - Complete Unity integration for the game and on-chain features.
-- Expand the game to include NFT avatars, with customizable traits and abilities.
+- Include ERC20 tokens as in game rewards and currencies.
+- Expand the game to include ERC721 NFT avatars, with customizable traits and abilities.
 - Develop a marketplace where players can trade, buy, and sell NFTs.
 - Implement a competitive leaderboard and introduce staking-based matches.
 - Add new upgrade paths and abilities to enhance strategic depth.
@@ -86,3 +173,7 @@ WindStark promotes skill-building, adaptability, and critical thinking. The game
 
 
 
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+Attach files by dragging & dropping, selecting or pasting them.
+Editing .github/profile/README.md at main · shibiki-labs/.github
+ 
