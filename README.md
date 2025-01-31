@@ -1,6 +1,6 @@
 # 🌟 **WindStark**
 
-###🗺️ **Project Overview**  
+### 🗺️ **Project Overview**  
 2D on-chain gaming app/platform, featuring a rogue-like experience with procedural generation, dynamic gameplay, and strategic depth.
 
 
