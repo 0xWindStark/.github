@@ -1,4 +1,4 @@
-# <img src="https://github.com/shibiki-labs/.github/blob/main/icon.png" alt="WindStark Icon" width="30" height="30"> **WindStark**
+# <img src="https://github.com/shibiki-labs/.github/blob/main/icon.png" alt="WindStark Icon" width="30" height="30"> **WindStark Game**
 
 
 ## 🌟 **Gameplay**
@@ -6,7 +6,7 @@
 
 
 
-[WATCH HERE](https://www.youtube.com/watch?v=VHjPhsDyh6U&t=3s&ab_channel=SoarinSkySagar)
+[WATCH GAMEPLAY HERE](https://www.youtube.com/watch?v=VHjPhsDyh6U&t=3s&ab_channel=SoarinSkySagar)
 
 
 ### 🗺️ **Project Overview**  
