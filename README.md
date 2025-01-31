@@ -2,7 +2,7 @@
 
 
 ## 🌟 **Gameplay**
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VHjPhsDyh6U&t=3s&ab_channel=SoarinSkySagar/0.jpg)](https://www.youtube.com/watch?v=VHjPhsDyh6U&t=3s&ab_channel=SoarinSkySagar)
+[![Watch the video]
 
 ### 🗺️ **Project Overview**  
 2D on-chain gaming app/platform, featuring a rogue-like experience with procedural generation, dynamic gameplay, and strategic depth.
