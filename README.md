@@ -75,11 +75,11 @@ WindStark promotes skill-building, adaptability, and critical thinking. The game
 
 ### 🛠️ **Team & Contributions**  
 
-🧑‍💻 Sagar: Smart Contract dev  
+🧑‍💻 [Sagar](https://github.com/SoarinSkySagar): Smart Contract dev  
 
-📊 Binayak:Project Management 
+📊 [Binayak](https://github.com/Binayak9932):Project Management 
 
-🧑‍💻 Madhav: Game Dev
+🧑‍💻[Madhav](https://github.com/KindaMAD-hav): Game Dev
 
 
 
