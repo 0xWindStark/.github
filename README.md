@@ -1,4 +1,4 @@
-# 🌟 **WindStark**
+# ![WindStark Icon](https://github.com/0xWindStark/.github/blob/main/icon.png)  **WindStark**
 
 
 ## 🌟 **Gameplay**
